@@ -1,0 +1,7 @@
+#intermediate files
+*.sqlite3
+*.pyc
+
+
+#
+mblog/__pycache__
